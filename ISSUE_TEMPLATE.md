@@ -4,7 +4,7 @@ Please include a detailed description of the issue, instructions to reproduce it
 For large error pastes, please use https://gist.github.com/ or https://hastebin.com/
 
 ### Core Information
-DO NOT JUST SAY "LATEST"
+* _Do not just say "Latest"_
 **Server version**: insert version
 
 **AAC version**: 
