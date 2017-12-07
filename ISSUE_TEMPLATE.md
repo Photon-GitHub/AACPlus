@@ -5,6 +5,7 @@ For large error pastes, please use https://gist.github.com/ or https://hastebin.
 
 ### Core Information
 (_Do not just say "Latest"_)
+
 **Server version**: insert version
 
 **AAC version**: 
