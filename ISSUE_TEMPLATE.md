@@ -6,7 +6,7 @@ For large error pastes, please use https://hastebin.com/ (or similar)
 ### Core Information
 (_Do not just say "Latest"_)
 
-**Server version**: insert version
+**Server version**: 
 
 **AAC version**: 
 
@@ -19,7 +19,7 @@ For large error pastes, please use https://hastebin.com/ (or similar)
 **Plugin list**: (chat or actionbar plugins?)
 
 ### Special Environment Info
-**ViaVersion version**: insert version or say N/A
+**ViaVersion version**: Insert version or say N/A
 
 **ProtocolSupport version**: 
 
@@ -29,3 +29,12 @@ For large error pastes, please use https://hastebin.com/ (or similar)
 
 ### Configurations
 Post your AAC-Hider config **and** AAC language.yml if altered. Or say "default" if untouched.
+
+AAC-Hider Config: 
+```
+(paste config here)
+```
+AAC language.yml: 
+```
+(paste language.yml
+```
