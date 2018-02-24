@@ -1,3 +1,7 @@
+## v1.3.1
++ New config handling
+* Support for multiple digit version numbers
+
 ## v1.3.0
 + AACHider now supports blocking AACAdditionPro's commands as well
 + AACHider now uses AACAdditionPro's placeholder framework... if you ever want to know the ping of the player who executed a command associated with AAC / AACAdditionPro.
