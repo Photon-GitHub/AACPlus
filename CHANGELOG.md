@@ -1,3 +1,6 @@
+## v1.3.2
+* Update for the new AACAdditionPro command aliases.
+
 ## v1.3.1
 + New config handling
 * Support for multiple digit version numbers
