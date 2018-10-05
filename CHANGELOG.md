@@ -1,3 +1,10 @@
+## v1.4.0
++ {server} placeholder
+* Improved file handling
+* Improved performance
+* Fixed some false blocking
+* Fixed a bug which caused case-sensitive command handling
+
 ## v1.3.2
 * Update for the new AACAdditionPro command aliases.
 
