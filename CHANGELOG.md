@@ -1,3 +1,7 @@
+## v1.4.1
+* Improved performance on 1.13
+* plugin.yml update for 1.13
+
 ## v1.4.0
 + {server} placeholder
 * Improved file handling
