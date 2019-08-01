@@ -1,4 +1,4 @@
-# AAC-Hider
+# AACPlus
 ### New Issues/Reports
 If you are creating a new issue, please review existing issues to avoid making a duplicate. It is better to add onto an existing issue than to post the information in a different location.
 
