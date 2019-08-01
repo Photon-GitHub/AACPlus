@@ -12,7 +12,7 @@ For large error pastes, please use https://hastebin.com/ (or similar)
 
 **AACadditionPro version**: 
 
-**AAC-Hider version**: 
+**AACPlus version**: 
 
 **ProtocolLib version**: 
 
@@ -30,11 +30,7 @@ For large error pastes, please use https://hastebin.com/ (or similar)
 ### Configurations
 Post your AAC-Hider config **and** AAC language.yml if altered. Or say "default" if untouched.
 
-AAC-Hider Config: 
+AACPlus Config: 
 ```
 (paste config here)
-```
-AAC language.yml: 
-```
-(paste language.yml
 ```
